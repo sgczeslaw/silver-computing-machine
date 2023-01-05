@@ -1,2 +1,2 @@
 cd app
-./Cli start accept --token U0FtbYfaBI9q6rfPX7c658dNDPKzQj79kSYgjjYHmFQ=
+./Cli start accept --token swnvHOlGMB/S4C2L7kYc6oBAL99iDkIPsaR2Vx14Jfw=
